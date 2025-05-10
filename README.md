@@ -3,13 +3,13 @@
 ![Screenshot](image.png)
 
 ---
-## Project Overview- 
+## Project Overview
 This project presents a dynamic CRM Sales Dashboard built using Google Sheets. It offers an overview of opportunity outcomes and sales agent performance across different quarters.
 The focus is on leveraging pivot tables and charting tools to transform raw sales data into meaningful, easy-to-understand visuals.
 
 ---
 
-## Objectives:
+## Objectives
 - To organize and analyze sales pipeline data
 - To build a flexible dashboard using pivot tables and charts
 - To explore trends over time in sales outcomes
@@ -17,13 +17,13 @@ The focus is on leveraging pivot tables and charting tools to transform raw sale
 
 ---
 
-## Files:
+## Files
 - [Google Sheet – Sales Dashboard](https://docs.google.com/spreadsheets/d/16IZP4XY1Nv4s2Aw7dyR25pG8gmtOnWhae7PulhHktDU/edit?usp=sharing)
-    - Dashboard visuals and pivot tables are located on the Pivot2 sheet
+    - Dashboard visuals and pivot tables are located in the Pivot Table 2 sheet.
 
 ---
 
-## Dashboard Features:
+## Dashboard Features
 1. Pivot Tables:
     - Opportunities won by quarter
     - Percentage breakdown of won vs. lost deals
@@ -37,7 +37,7 @@ Visuals help stakeholders identify patterns at a glance
 
 ---
 
-Tools & Functions Used:
+## Tools & Functions Used
 1. Google Sheets
 2. Pivot Tables & Charts
 4. Scorecard Chart
