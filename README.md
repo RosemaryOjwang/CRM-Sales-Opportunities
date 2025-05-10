@@ -45,13 +45,14 @@ Visuals help stakeholders identify patterns at a glance
 
 ---
 
-## Example Use Cases:Quickly evaluate quarterly performance trends
+## Example Use Cases
+- Quickly evaluate quarterly performance trends
 - Visualize team contribution to overall pipeline success
 - Present clean summaries to stakeholders or leadership
 
 ---
 
-## Created by:Rosemary Ojwang
+## Created by: Rosemary Ojwang
 Aspiring Data Analyst | Google Data Analytics Certified | ALX Data Science Learner
 
 
