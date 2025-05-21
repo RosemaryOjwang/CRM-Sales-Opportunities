@@ -19,7 +19,7 @@ The focus is on leveraging pivot tables and charting tools to transform raw sale
 
 ## Files
 - [Google Sheet – Sales Dashboard](https://docs.google.com/spreadsheets/d/16IZP4XY1Nv4s2Aw7dyR25pG8gmtOnWhae7PulhHktDU/edit?usp=sharing)
-    - Dashboard visuals and pivot tables are located in the Pivot Table 2 sheet.
+    - Dashboard visuals and pivot tables are located in the Sales Dashboard sheet.
 
 ---
 
